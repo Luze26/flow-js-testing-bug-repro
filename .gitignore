@@ -1,0 +1,10 @@
+.env
+.vscode
+.idea
+node_modules
+
+flow.testnet.json
+flow.mainnet.json
+
+*.private.json
+*.pkey
